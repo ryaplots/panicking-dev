@@ -4,8 +4,8 @@ author: Darya Plotnytska
 avatar: /logo.png
 location: Netherlands
 email: d.plotnytska.s@gmail.com
-date_format: "%d %b %Y"
-skin: Daylight
+date_format: "%d %-b %Y"
+skin: daylight
 
 plugins:
   - jekyll-seo-tag

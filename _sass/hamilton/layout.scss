@@ -366,6 +366,7 @@ ul.social-icons {
 
       @media screen and (min-width: $on-large) {
         @include relative-font-size(1.5);
+        font-weight: 400;
       }
     }
 

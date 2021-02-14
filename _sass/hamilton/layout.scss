@@ -414,7 +414,8 @@ ul.social-icons {
   padding-bottom: $spacing-unit - 1;
   border-bottom: 1px solid;
   margin-bottom: $spacing-unit + 1;
-  text-align: center;
+  text-align: left;
+  color: $link-base-color;
 }
 
 .post-meta {

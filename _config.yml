@@ -1,7 +1,7 @@
 title: Panicking Dev
 description: My programming journey
 author: Darya Plotnytska
-avatar: /logo.png
+avatar: /logo.jpg
 location: Netherlands
 email: d.plotnytska.s@gmail.com
 date_format: "%d %-b %Y"
@@ -35,7 +35,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-logo: logo.png
+logo: logo.jpg
 social:
   name: Darya Plotnytska
   links:

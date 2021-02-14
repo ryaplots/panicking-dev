@@ -4,7 +4,7 @@ author: Darya Plotnytska
 avatar: /logo.png
 location: Netherlands
 email: d.plotnytska.s@gmail.com
-date_format: %d %-b, %Y
+date_format: %d %M %Y
 skin: Daylight
 
 plugins:

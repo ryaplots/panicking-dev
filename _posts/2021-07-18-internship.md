@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-My 10-month, intensive, job-like internship ended last week. It’s been 10 months since I started working for that company. In this time I believe I brought a lot of value to it, fresh ideas and imporvements, some of which I would like to share here. 
+My 10-month, intensive, job-like internship ended last week. In this time I believe I brought a lot of value to it, fresh ideas and imporvements, some of which I would like to share here. 
 
 #### documentation
 For starters, the importance of a documentation. For 6 months I have been roaming around a website with different parts, and different procedures with no documentation to guide me through it, just my boss, who has probably built that logic a couple years ago. Naturally, this led to some mistakes and me finding out later how and why this or that had to be done. Later a new intern came in and she asked the same questions as I did and made the same mistakes. It was obvious what had to be done – to build a documentation about the website’s main structure and main procedures so each new member of the dev team could start working and actually producing much faster than I and my college did.
